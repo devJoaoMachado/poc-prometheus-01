@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OBabjWIHjrMgBMmv7V120/ePeK3TTwkJHzQTS8VyDTE=",
+  "Source": "poc-prometheus",
+  "BasePath": "_content/poc-prometheus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
